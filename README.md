@@ -11,7 +11,7 @@ Also including some of skills and best practise to use ember.js
 
 # Brief Introduce
 
-All unittests are under [`ember-test/test/unit`](/ember-test/) folder, becuse I used `ember-cli` to maintain ember-table project.
+All unittests are under [`ember-test/test/unit`](/ember-test/test/unit) folder, becuse I used `ember-cli` to maintain ember-table project.
 
 
 
